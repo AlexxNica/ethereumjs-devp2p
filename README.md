@@ -6,7 +6,7 @@
 
 An node.js implementation of
 
-- devp2p's Distrubuted Peer Table
+- devp2p's Distributed Peer Table
 - RLPx transport protocol
 - Ethereum wire protocol
 
